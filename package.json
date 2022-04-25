@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"moment": "2.14.0",
+		"moment": "MAJOR version1, MINOR version 10, PATCH version 2",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -16,5 +16,5 @@
 	"description": "A project to learn about managing packages with NPM.",
 	"keywords": ["freecodecamp", "npm", "packages", "managing"],
 	"license": "MIT",
-	"version": "MAJOR version1, MINOR version 10, PATCH version 2"
+	"version": "1.0.0"
 }
