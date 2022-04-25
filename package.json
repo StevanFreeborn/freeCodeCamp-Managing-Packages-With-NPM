@@ -13,5 +13,6 @@
 	},
     "author": "Stevan Freeborn",
 	"description": "A project to learn about managing packages with NPM.",
-	"keywords": ["freecodecamp", "npm", "packages", "managing"]
+	"keywords": ["freecodecamp", "npm", "packages", "managing"],
+	"license": "MIT"
 }
