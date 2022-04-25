@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-    "author": "Stevan Freeborn"
+    "author": "Stevan Freeborn",
+	"description": "A project to learn about managing packages with NPM."
 }
