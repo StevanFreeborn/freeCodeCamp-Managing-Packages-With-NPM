@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
     "author": "Stevan Freeborn",
-	"description": "A project to learn about managing packages with NPM."
+	"description": "A project to learn about managing packages with NPM.",
+	"keywords": ["freecodecamp", "npm", "packages", "managing"]
 }
